@@ -1,0 +1,7 @@
+u:\visual studio 2013\Projects\HC_Poller2_3\HC_Poller2_3\bin\Debug\HC_Poller2_3.exe.config
+u:\visual studio 2013\Projects\HC_Poller2_3\HC_Poller2_3\bin\Debug\HC_Poller2_3.exe
+u:\visual studio 2013\Projects\HC_Poller2_3\HC_Poller2_3\bin\Debug\HC_Poller2_3.pdb
+u:\visual studio 2013\Projects\HC_Poller2_3\HC_Poller2_3\bin\Debug\Oracle.DataAccess.dll
+u:\visual studio 2013\Projects\HC_Poller2_3\HC_Poller2_3\obj\Debug\HC_Poller2_3.csprojResolveAssemblyReference.cache
+u:\visual studio 2013\Projects\HC_Poller2_3\HC_Poller2_3\obj\Debug\HC_Poller2_3.exe
+u:\visual studio 2013\Projects\HC_Poller2_3\HC_Poller2_3\obj\Debug\HC_Poller2_3.pdb
